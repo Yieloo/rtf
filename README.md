@@ -1,5 +1,6 @@
 # Librairie Rtf
 * Génération de fichiers RTF
+* Version antérieure du projet PHPRtfLite : https://github.com/phprtflite/PHPRtfLite
 
 ## Version 1.0.1
 * Compatible PHP7
@@ -18,6 +19,6 @@ fichier : composer.json
         ],
         "require": {
             [...]
-            "yieloo/pdf" : "1.0.1"
+            "yieloo/rtf" : "1.0.1"
         }
     }
