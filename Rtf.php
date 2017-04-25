@@ -106,7 +106,7 @@ class Rtf {
 	 * Rtf constructor.
 	 * @access public
 	 */
-	function Rtf() {	  
+	function __construct() {
 		$this->addFont('Times new Roman');	
 	}  
 	   
